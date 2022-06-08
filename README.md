@@ -1,2 +1,2 @@
-# Cuneiform-graph-nn-recognition
-Recognition of cuneiform signs using a convolutional graph network.
+# Recognizing Cuneiform Signs Using Graph Convolution Network
+Розпізнавання клинописних знаків за допомогою графової мережі згортки
